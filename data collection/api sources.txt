@@ -1,3 +1,4 @@
 _ Recipes search API	http://www.recipepuppy.com/about/api/
 _ Food expiration date pdf file attach (convert pdf to text for database)
-_ 
+_ Great template for categorizing	http://www.eatbydate.com/
+USDA api key ndI0kDpakkG1fELfKyygN9xI0xtCS4EIGoJpyiVU
